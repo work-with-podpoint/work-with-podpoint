@@ -1,4 +1,4 @@
-<p align="center"><a href="https://pod-point.com" target="_blank"><img src="https://raw.githubusercontent.com/work-with-podpoint/work-with-podpoint/main/art/logo.svg" width="100%"></a></p>
+<p align="center"><a href="https://pod-point.com" target="_blank"><img src="https://raw.githubusercontent.com/work-with-podpoint/work-with-podpoint/main/art/logo.svg" width="66%"></a></p>
 
 ## Mission
 
@@ -8,7 +8,7 @@ It’s this belief that gets us out of bed in the morning and what we’re all w
 
 That’s our vision and we are always looking for **new talents** (this is you) to help us on our mission.
 
-<p align="center"><img src="https://raw.githubusercontent.com/work-with-podpoint/work-with-podpoint/main/art/earth.svg" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/work-with-podpoint/work-with-podpoint/main/art/earth.svg" width="80%"></p>
 
 So, to make our vision a reality, our mission is to make sure electric vehicle charging is:
 
@@ -26,4 +26,4 @@ Through our network of home, workplace and public charging points we have alread
 
 _As of 31 December 2021_
 
-<p align="center"><img src="https://raw.githubusercontent.com/work-with-podpoint/work-with-podpoint/main/art/brand-solution.svg" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/work-with-podpoint/work-with-podpoint/main/art/brand-solution.svg" width="80%"></p>
